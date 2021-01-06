@@ -1,7 +1,8 @@
 ## 使用说明
 - 找个预训练的bert丢data/pre_model_dir文件夹，然后运行main.py就可以了
 - 模型下载地址[跳转](https://github.com/ymcui/Chinese-BERT-wwm)
-- 代码说明地址：[跳转](https://tianchi.aliyun.com/notebook-ai/detail?postId=160581)
+- 项目介绍：https://tianchi.aliyun.com/competition/entrance/531841/introduction
+- 代码说明地址：[跳转](https://tianchi.aliyun.com/notebook-ai/detail?postId=160581)(或者直接下载本地的notebook)
 
 ### 文件树
 
